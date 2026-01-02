@@ -545,7 +545,7 @@ b{
 .join{
     width: 1600px;
     height: 1990px;
-    background-image: url("bg.jpg");
+ background-color:black;
 
 }
 .line4{
@@ -764,4 +764,5 @@ left: -600px;
 
 
    }
+
 
